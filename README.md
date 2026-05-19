@@ -21,6 +21,6 @@ Reliable backend services, machine integrations, developer tools and small side 
 
 ## Stats
 
-Because everyone loves stats!
+Because apparently we measure developers in graphs now!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=impetrm&show_icons=true&count_private=true)
