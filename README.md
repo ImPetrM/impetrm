@@ -19,10 +19,4 @@ I also have a soft spot for foxes, old technology and cofee.
 
 ## What I like building
 
-Reliable backend services, machine integrations, developer tools and small side projects (which often stay in my drawer).
-
-## Stats
-
-Because apparently we measure developers in graphs now!
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=impetrm&show_icons=true&count_private=true)
+Reliable backend services, machine integrations, developer tools, apps with web interface and small side projects (which often stay in my drawer).
